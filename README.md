@@ -31,6 +31,7 @@ your function should return:
 
 Rules:
 1. you should only sumarize numbers
+2. you should sumarize numbers inside of arrays (or inside of arrays of arrays)
 
 Hints:
 - do you know the use of `typeof`?
