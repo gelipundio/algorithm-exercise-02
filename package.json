@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-exercise-02",
+  "version": "1.0.0",
+  "description": "Flatten the array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelipundio/algorithm-exercise-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelipundio/algorithm-exercise-02/issues"
+  },
+  "homepage": "https://github.com/gelipundio/algorithm-exercise-02#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
