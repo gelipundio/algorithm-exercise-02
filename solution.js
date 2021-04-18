@@ -1,22 +1,3 @@
-// function sumarize(inputArray) {
-//     let total = 0;
-//     if (inputArray) {
-//       for (let i = 0; i < inputArray.length; i++) {
-//         if (typeof inputArray[i] === "number") {
-//           total = total + inputArray[i];
-//         } else if (inputArray[i] instanceof Array) {
-//           total = total + sumarize(inputArray[i]);
-//         }
-//       }
-//       return total;
-//     }
-//     return 0;
-//   }
-
-//   module.exports = {
-//     sumarize,
-//   };
-
 function sumarize(inputArray) {
   let total = 0;
   if (inputArray) {
